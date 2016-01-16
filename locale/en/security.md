@@ -56,6 +56,5 @@ Security notifications will be distributed via the following methods.
 
 
 ## Comments on this Policy
-
 If you have suggestions on how this process could be improved please submit a [pull request](https://github.com/nodejs/nodejs.org)
 or email [security@nodejs.org](mailto:security@nodejs.org) to discuss.
